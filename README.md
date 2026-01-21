@@ -22,9 +22,9 @@
 ----
 ## Display (OLED, TFT, LCD)
 
-  Small displays: Arduino boards, ESP32
+      Small displays: Arduino boards, ESP32
   
-  Large / HD display: ESP32, Raspberry Pi, RPi Pico (RP2040), Teensy
+      Large / HD display: ESP32, Raspberry Pi, RPi Pico (RP2040), Teensy
 
 ----
 ## LED strips Addressable (WS2812 / NeoPixel)
@@ -65,7 +65,7 @@
 
     Bare Conductive Touch Board
 
-    with Adafruit 12-Key Capacitive Touch Sensor
+    Arduino / ESP with Adafruit 12-Key Capacitive Touch Sensor
 ----
 ## Wearables 
 
