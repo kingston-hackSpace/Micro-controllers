@@ -1,6 +1,6 @@
 ## Available at hackSpace
 
-See here to know more about the micro-controllers available at hackSpace 
+See [here](https://github.com/kingston-hackSpace/Micro-controllers/blob/main/micro-controllers.md) to know more about the micro-controllers available at hackSpace 
 
 ----
 
